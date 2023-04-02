@@ -1,0 +1,15 @@
+# Python cache dirs
+__pycache__/
+
+# IDE dirs
+.idea/
+.vscode/
+
+# Database files
+*.db
+
+# Enviroment files
+*.env
+
+# Temp files
+tmp/
